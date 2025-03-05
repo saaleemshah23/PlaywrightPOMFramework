@@ -6,8 +6,6 @@ A robust and scalable test automation framework built using **Playwright** and *
 This framework includes several types of automated tests like functional, UI, and end-to-end tests, designed to validate web applications like [the-internet.herokuapp.com](https://the-internet.herokuapp.com).
 Can be run on any device or browser. Chrome, Firefox, Safari etc. and Any Mobile device or OS.
 
-Test Report:![image](https://github.com/user-attachments/assets/b2a209bf-4a42-4031-8c9b-e0852ba90360)
-
 ## Features
 
 - **Automated Web Application Testing**: Includes tests for various features like login, form authentication, dynamic content, alerts, etc.
@@ -43,3 +41,4 @@ For Allure Reporting (Optional): Generate Allure reports by running:
 npm run allure:report
 npm run allure:open
 
+Test Report:![image](https://github.com/user-attachments/assets/b2a209bf-4a42-4031-8c9b-e0852ba90360)
